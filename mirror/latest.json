@@ -267,7 +267,38 @@
      "mirror/v2026.11.26.1107/update_Lite_2026.11.26.1107.zip.part01"
     ]
    }
+  },
+  {
+   "version": "2026.11.26.1122",
+   "edition": "Full",
+   "date": "2026-11-26 11:26",
+   "notes": "الملفات بالتفصيل»: يعرض المسجّلين في الفترة أو الحاصلين على الرخصة فيها، بالاسم ورقم التسجيل والتاريخ والحالة. النقر المزدوج يفتح ملف المترشح.",
+   "url": "https://github.com/slimaniali19/autoecole-updates/releases/download/v2026.11.26.1122/update_Full_2026.11.26.1122.zip",
+   "sha256": "3e77ae7274802796e26aeb28ca50a109a4db1fce9abce351a045ee272ba204cb",
+   "size": 20208053,
+   "mirror": {
+    "commit": "3dc9ece01557fc50b0527de71737e7c8a367aa17",
+    "parts": [
+     "mirror/v2026.11.26.1122/update_Full_2026.11.26.1122.zip.part01",
+     "mirror/v2026.11.26.1122/update_Full_2026.11.26.1122.zip.part02"
+    ]
+   }
+  },
+  {
+   "version": "2026.11.26.1122",
+   "edition": "Lite",
+   "date": "2026-11-26 11:26",
+   "notes": "الملفات بالتفصيل»: يعرض المسجّلين في الفترة أو الحاصلين على الرخصة فيها، بالاسم ورقم التسجيل والتاريخ والحالة. النقر المزدوج يفتح ملف المترشح.",
+   "url": "https://github.com/slimaniali19/autoecole-updates/releases/download/v2026.11.26.1122/update_Lite_2026.11.26.1122.zip",
+   "sha256": "bf70355b17befe9c5ad5d27a028e39348bc3036b6ca0115a91242b5ebc66c089",
+   "size": 10337472,
+   "mirror": {
+    "commit": "3dc9ece01557fc50b0527de71737e7c8a367aa17",
+    "parts": [
+     "mirror/v2026.11.26.1122/update_Lite_2026.11.26.1122.zip.part01"
+    ]
+   }
   }
  ],
- "sig2": "n1uz2bMS77t38jzEiiu4eTBXHs8vDYpHyMwXfBycSiy0-3K59lroPd_JHTOtFVMXQj1e4u9snBWcMAOfkVgrAQ"
+ "sig2": "bETqJi9789LSQKjuRtzUjIb2ErmOahnhZPCLQpRxxrV6oxlkZ2dfn3EdgMde_KCTkGLchaQCFLDTGcdavf2SCw"
 }
