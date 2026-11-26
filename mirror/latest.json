@@ -1,0 +1,273 @@
+{
+ "releases": [
+  {
+   "version": "2026.10.25.0950",
+   "date": "2026-10-25 13:18",
+   "notes": "التحديث عبر الإنترنت",
+   "url": "https://github.com/slimaniali19/autoecole-updates/releases/download/v2026.10.25.0950/update_2026.10.25.0950.zip",
+   "sha256": "3c56dd03ecece3977d1cc539d90d6fedd9ae2a756c569b52d9edb2f4dcb058e4",
+   "size": 11520304
+  }
+ ],
+ "sig": "JkRHwNJMo1duysfxmpoNP8wsLZCjLktFTJpR87ZWrv_4SuKiZw5scdlkesuL-yDFgc0fuYKypSYq-zC_Oh8yDQ",
+ "releases_legacy": [
+  {
+   "version": "2026.10.25.0950",
+   "date": "2026-10-25 13:18",
+   "notes": "التحديث عبر الإنترنت",
+   "url": "https://github.com/slimaniali19/autoecole-updates/releases/download/v2026.10.25.0950/update_2026.10.25.0950.zip",
+   "sha256": "3c56dd03ecece3977d1cc539d90d6fedd9ae2a756c569b52d9edb2f4dcb058e4",
+   "size": 11520304
+  }
+ ],
+ "releases_v2": [
+  {
+   "version": "2026.10.26.2100",
+   "edition": "Full",
+   "date": "2026-10-26 21:06",
+   "notes": "إصلاح تحديث جدول الإرسال",
+   "url": "https://github.com/slimaniali19/autoecole-updates/releases/download/v2026.10.26.2100/update_Full_2026.10.26.2100.zip",
+   "sha256": "5ec0fc8c8249a5f800d57f004a9e7a4c7810b7a11c3d7b67b1522970f30ae2ae",
+   "size": 21382926
+  },
+  {
+   "version": "2026.10.26.2100",
+   "edition": "Lite",
+   "date": "2026-10-26 21:06",
+   "notes": "إصلاح تحديث جدول الإرسال",
+   "url": "https://github.com/slimaniali19/autoecole-updates/releases/download/v2026.10.26.2100/update_Lite_2026.10.26.2100.zip",
+   "sha256": "9b333c3404ef4b8990881f41385228d8972132c42f3687fd71b4c5aaee610516",
+   "size": 11521128
+  },
+  {
+   "version": "2026.10.26.2149",
+   "edition": "Full",
+   "date": "2026-10-26 21:52",
+   "notes": "تحديثات أصغر وأسرع + إشعار تلقائي بالتحديثات",
+   "url": "https://github.com/slimaniali19/autoecole-updates/releases/download/v2026.10.26.2149/update_Full_2026.10.26.2149.zip",
+   "sha256": "cb3a16091d5d4034c198b40960a0658aa3c654af28bafc6816f388e6cc0f4416",
+   "size": 21412505
+  },
+  {
+   "version": "2026.10.26.2149",
+   "edition": "Lite",
+   "date": "2026-10-26 21:52",
+   "notes": "تحديثات أصغر وأسرع + إشعار تلقائي بالتحديثات",
+   "url": "https://github.com/slimaniali19/autoecole-updates/releases/download/v2026.10.26.2149/update_Lite_2026.10.26.2149.zip",
+   "sha256": "86f902ba9b6e7e1a8e183923559a4b7aa056b30528f37e929fdb71fa6359e893",
+   "size": 11550745
+  },
+  {
+   "version": "2026.10.27.0843",
+   "edition": "Full",
+   "date": "2026-10-27 08:50",
+   "notes": "- إصلاحات وتحسينات في نظام التحديث التلقائي\n- التحديثات القادمة ستكون أصغر حجما وأسرع تنزيلا",
+   "url": "https://github.com/slimaniali19/autoecole-updates/releases/download/v2026.10.27.0843/update_Full_2026.10.27.0843.zip",
+   "sha256": "6db6af838613ee01b4bdcc94c5338e6432fa004edffcc08f2a197d1438daaaad",
+   "size": 20195471
+  },
+  {
+   "version": "2026.10.27.0843",
+   "edition": "Lite",
+   "date": "2026-10-27 08:50",
+   "notes": "- إصلاحات وتحسينات في نظام التحديث التلقائي\n- التحديثات القادمة ستكون أصغر حجما وأسرع تنزيلا",
+   "url": "https://github.com/slimaniali19/autoecole-updates/releases/download/v2026.10.27.0843/update_Lite_2026.10.27.0843.zip",
+   "sha256": "37d6bc274284a708ab41cc396f1c8f8967b965a405d534039ed7a3c3c05e0a2e",
+   "size": 10333654
+  },
+  {
+   "version": "2026.10.27.0857",
+   "edition": "Full",
+   "date": "2026-10-27 14:08",
+   "notes": "عرض رقم النسخة في عنوان النافذة",
+   "url": "https://github.com/slimaniali19/autoecole-updates/releases/download/v2026.10.27.0857/update_Full_2026.10.27.0857.zip",
+   "sha256": "02fee0e8763e1d44df351423783e233e76a0068154e88731b7c3831b638c4456",
+   "size": 157905
+  },
+  {
+   "version": "2026.10.27.0857",
+   "edition": "Lite",
+   "date": "2026-10-27 14:08",
+   "notes": "عرض رقم النسخة في عنوان النافذة",
+   "url": "https://github.com/slimaniali19/autoecole-updates/releases/download/v2026.10.27.0857/update_Lite_2026.10.27.0857.zip",
+   "sha256": "6ce82d4250b4effaad59b4e725e0ed5354b9481b3c33843f419db13e511aa6f3",
+   "size": 157932
+  },
+  {
+   "version": "2026.11.05.1536",
+   "edition": "Full",
+   "date": "2026-11-05 16:28",
+   "notes": "إمكانية طباعة صفحة واحدة أو صفحات محددة من العقد",
+   "url": "https://github.com/slimaniali19/autoecole-updates/releases/download/v2026.11.05.1536/update_Full_2026.11.05.1536.zip",
+   "sha256": "f06121692b3651ba600ef51bb2d4ecf1c6392f14e393b59644dcf80ad51787be",
+   "size": 151283
+  },
+  {
+   "version": "2026.11.05.1536",
+   "edition": "Lite",
+   "date": "2026-11-05 16:28",
+   "notes": "إمكانية طباعة صفحة واحدة أو صفحات محددة من العقد",
+   "url": "https://github.com/slimaniali19/autoecole-updates/releases/download/v2026.11.05.1536/update_Lite_2026.11.05.1536.zip",
+   "sha256": "76a7a9852e6aa39f1238f2e39d294619af5cfb58d9416bb1ddcc32b3d1cd9e8b",
+   "size": 151314
+  },
+  {
+   "version": "2026.11.08.0924",
+   "edition": "Full",
+   "date": "2026-11-08 09:30",
+   "notes": "لا يُمنع المترشح إلا إذا كان آخر امتحان له قبل أقل من 13 يوماً من تاريخ الامتحان القادم",
+   "url": "https://github.com/slimaniali19/autoecole-updates/releases/download/v2026.11.08.0924/update_Full_2026.11.08.0924.zip",
+   "sha256": "40c2bccc430e4b190e84ed52a6cc85cce7d1df04a0fe38c5f717c47c66429715",
+   "size": 228334
+  },
+  {
+   "version": "2026.11.08.0924",
+   "edition": "Lite",
+   "date": "2026-11-08 09:30",
+   "notes": "لا يُمنع المترشح إلا إذا كان آخر امتحان له قبل أقل من 13 يوماً من تاريخ الامتحان القادم",
+   "url": "https://github.com/slimaniali19/autoecole-updates/releases/download/v2026.11.08.0924/update_Lite_2026.11.08.0924.zip",
+   "sha256": "06edb071c7fb9149395bd250804b0d765013faee101f096b3cf2354293f877cb",
+   "size": 228367
+  },
+  {
+   "version": "2026.11.09.1246",
+   "edition": "Full",
+   "date": "2026-11-09 13:16",
+   "notes": "التقويم",
+   "url": "https://github.com/slimaniali19/autoecole-updates/releases/download/v2026.11.09.1246/update_Full_2026.11.09.1246.zip",
+   "sha256": "12178a76c5bc04bf5d8d55911dbcf67b976439103e686a92a14f9dbc43747fea",
+   "size": 161472
+  },
+  {
+   "version": "2026.11.09.1246",
+   "edition": "Lite",
+   "date": "2026-11-09 13:16",
+   "notes": "التقويم",
+   "url": "https://github.com/slimaniali19/autoecole-updates/releases/download/v2026.11.09.1246/update_Lite_2026.11.09.1246.zip",
+   "sha256": "1d3c5d31402572e3b61470234c6313eb89488569a24f7ff01a855933edc46628",
+   "size": 161493
+  },
+  {
+   "version": "2026.11.10.1110",
+   "edition": "Full",
+   "date": "2026-11-10 11:47",
+   "notes": "مزامنة الحصص",
+   "url": "https://github.com/slimaniali19/autoecole-updates/releases/download/v2026.11.10.1110/update_Full_2026.11.10.1110.zip",
+   "sha256": "567dc2b11ff7d8a15b367e8ade355ae213818cdd8729320f02f160ce18a6b2d8",
+   "size": 19100
+  },
+  {
+   "version": "2026.11.10.1110",
+   "edition": "Lite",
+   "date": "2026-11-10 11:47",
+   "notes": "مزامنة الحصص",
+   "url": "https://github.com/slimaniali19/autoecole-updates/releases/download/v2026.11.10.1110/update_Lite_2026.11.10.1110.zip",
+   "sha256": "28cdbce98d109e0ae7127ac9d598023ef4ea5028ceac6c700a607d15eec6491d",
+   "size": 19101
+  },
+  {
+   "version": "2026.11.10.1254",
+   "edition": "Full",
+   "date": "2026-11-10 13:14",
+   "notes": "تحسين برنامج تسيير مدرسة تعليم السياقة",
+   "url": "https://github.com/slimaniali19/autoecole-updates/releases/download/v2026.11.10.1254/update_Full_2026.11.10.1254.zip",
+   "sha256": "51243ca46e7b83af20605d423bec336409406ee193e7bbe00445f9e7c0bc0817",
+   "size": 20245803
+  },
+  {
+   "version": "2026.11.10.1254",
+   "edition": "Lite",
+   "date": "2026-11-10 13:14",
+   "notes": "تحسين برنامج تسيير مدرسة تعليم السياقة",
+   "url": "https://github.com/slimaniali19/autoecole-updates/releases/download/v2026.11.10.1254/update_Lite_2026.11.10.1254.zip",
+   "sha256": "6bee39f60cfc18efb416ce1b9c942bbaab6cf3c64320ef37c69b82f3e16ef048",
+   "size": 10389304
+  },
+  {
+   "version": "2026.11.14.1225",
+   "edition": "Full",
+   "date": "2026-11-14 12:53",
+   "notes": "حل مشكلة تسجيل مترشح من جديد بعد إلغاء ملفه",
+   "url": "https://github.com/slimaniali19/autoecole-updates/releases/download/v2026.11.14.1225/update_Full_2026.11.14.1225.zip",
+   "sha256": "f6dc9db0fef902af7d0e4f4d85da6f0238e28be5f50577e21e8fa29012136313",
+   "size": 20273244
+  },
+  {
+   "version": "2026.11.14.1225",
+   "edition": "Lite",
+   "date": "2026-11-14 12:53",
+   "notes": "حل مشكلة تسجيل مترشح من جديد بعد إلغاء ملفه",
+   "url": "https://github.com/slimaniali19/autoecole-updates/releases/download/v2026.11.14.1225/update_Lite_2026.11.14.1225.zip",
+   "sha256": "51ec5f2daa7d070b2357a4ba9da0e4d5f387e147b73eccf1d26d4da0c91d190e",
+   "size": 235613
+  },
+  {
+   "version": "2026.11.19.1904",
+   "edition": "Full",
+   "date": "2026-11-20 00:03",
+   "notes": "صار تاريخ العقد قابلاً للتعديل: عند طباعة العقد تظهر نافذة صغيرة تختار فيها التاريخ، ويُطبع في الصفحة الرابعة ويُحفظ في ملف المترشح. جرّبتُ توليد العقد فعلياً على نسخة من قاعدة العمل، فظهر التاريخ المختار (05/02/2026) في مكانه، والاختبارات خضراء. كان البرنامج قبل ذلك يطبع دائماً تاريخ يوم الطباعة.",
+   "url": "https://github.com/slimaniali19/autoecole-updates/releases/download/v2026.11.19.1904/update_Full_2026.11.19.1904.zip",
+   "sha256": "5c6adad524b9f9d0389f2b657d65063f9ab9cc5f578d6538db7918ccc715acab",
+   "size": 199842
+  },
+  {
+   "version": "2026.11.19.1904",
+   "edition": "Lite",
+   "date": "2026-11-20 00:03",
+   "notes": "صار تاريخ العقد قابلاً للتعديل: عند طباعة العقد تظهر نافذة صغيرة تختار فيها التاريخ، ويُطبع في الصفحة الرابعة ويُحفظ في ملف المترشح. جرّبتُ توليد العقد فعلياً على نسخة من قاعدة العمل، فظهر التاريخ المختار (05/02/2026) في مكانه، والاختبارات خضراء. كان البرنامج قبل ذلك يطبع دائماً تاريخ يوم الطباعة.",
+   "url": "https://github.com/slimaniali19/autoecole-updates/releases/download/v2026.11.19.1904/update_Lite_2026.11.19.1904.zip",
+   "sha256": "b33246ec0feda23af807739bb7ea69f153f9c17cc09e2691127a22f679323c4d",
+   "size": 199848
+  },
+  {
+   "version": "2026.11.23.1909",
+   "edition": "Full",
+   "date": "2026-11-23 19:24",
+   "notes": "تحديث جديد",
+   "url": "https://github.com/slimaniali19/autoecole-updates/releases/download/v2026.11.23.1909/update_Full_2026.11.23.1909.zip",
+   "sha256": "1a0bf2ab5c1021fdb962884660f41fa0c20ac183c174180245211f34ffeed9e6",
+   "size": 20359086
+  },
+  {
+   "version": "2026.11.23.1909",
+   "edition": "Lite",
+   "date": "2026-11-23 19:24",
+   "notes": "تحديث جديد",
+   "url": "https://github.com/slimaniali19/autoecole-updates/releases/download/v2026.11.23.1909/update_Lite_2026.11.23.1909.zip",
+   "sha256": "91858423bb94cc10e4c38bdf01d418c29acbb65a5e9c36252964777ae51d7165",
+   "size": 10562441
+  },
+  {
+   "version": "2026.11.26.1107",
+   "edition": "Full",
+   "date": "2026-11-26 11:13",
+   "notes": "الملفات بالتفصيل»: يعرض المسجّلين في الفترة أو الحاصلين على الرخصة فيها، بالاسم ورقم التسجيل والتاريخ والحالة. النقر المزدوج يفتح ملف المترشح.",
+   "url": "https://github.com/slimaniali19/autoecole-updates/releases/download/v2026.11.26.1107/update_Full_2026.11.26.1107.zip",
+   "sha256": "ef6cabfc093d2984c7477fb258be5bf98b9aa55792767d451de6a8deab704891",
+   "size": 20272330,
+   "mirror": {
+    "commit": "5a8e3e94a10584e4b1f09f7c2b41487eeb3d6128",
+    "parts": [
+     "mirror/v2026.11.26.1107/update_Full_2026.11.26.1107.zip.part01",
+     "mirror/v2026.11.26.1107/update_Full_2026.11.26.1107.zip.part02"
+    ]
+   }
+  },
+  {
+   "version": "2026.11.26.1107",
+   "edition": "Lite",
+   "date": "2026-11-26 11:13",
+   "notes": "الملفات بالتفصيل»: يعرض المسجّلين في الفترة أو الحاصلين على الرخصة فيها، بالاسم ورقم التسجيل والتاريخ والحالة. النقر المزدوج يفتح ملف المترشح.",
+   "url": "https://github.com/slimaniali19/autoecole-updates/releases/download/v2026.11.26.1107/update_Lite_2026.11.26.1107.zip",
+   "sha256": "367ec846e938154ef9ecc4880c06419e3af9a4322a9f05b9b832ecd8909c3a81",
+   "size": 10401761,
+   "mirror": {
+    "commit": "5a8e3e94a10584e4b1f09f7c2b41487eeb3d6128",
+    "parts": [
+     "mirror/v2026.11.26.1107/update_Lite_2026.11.26.1107.zip.part01"
+    ]
+   }
+  }
+ ],
+ "sig2": "n1uz2bMS77t38jzEiiu4eTBXHs8vDYpHyMwXfBycSiy0-3K59lroPd_JHTOtFVMXQj1e4u9snBWcMAOfkVgrAQ"
+}
